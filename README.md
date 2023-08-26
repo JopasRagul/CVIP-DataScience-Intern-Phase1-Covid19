@@ -1,8 +1,8 @@
 # CVIP-DataScience-Intern-Phase1-Covid19
 
 
-🌍 Exploring Covid-19 Analysis: Phase 1(Normal Task) EDA Completed 📊
-Excited to share that I've wrapped up the first phase of my exploratory data analysis (EDA) project on the Covid-19 Analysis dataset! 📈🌐 as an data science intern at CodersCave ! 🚀
+😷 Covid-19 Analysis: Phase 1(Normal Task)  Completed 📊
+😷 Excited to share that I've wrapped up the first phase of my exploratory data analysis (EDA) project on the Covid-19 Analysis dataset! 📈 as an data science intern at CodersCave ! 🚀
 
 
 Tasks Done:
